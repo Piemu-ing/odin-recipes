@@ -1,0 +1,75 @@
+* {
+    background-color: #1A4D2E;
+    color: #E8DFCA;
+}
+
+#lumpia,
+#leche,
+#garlic
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#lumpia,
+#garlic
+{
+    height: 400px;
+    width: auto;
+}
+
+#leche{
+    height: 350px;
+    width: auto;
+}
+
+
+h1.main,
+h1.sub,
+h2.sub
+{
+    font-family: "American typewriter","Microplus Retina" "sans-serif";
+    font-weight: 400;
+    text-align: center;
+    background-color: #E8DFCA;
+    color: #1A4D2E;
+}
+
+h1.main{
+    font-size: 52px;
+}
+
+h1.sub{
+    font-size: 48px;
+}
+
+h2.sub{
+    font-size: 36px;
+}
+
+h3.sub{
+    font-family: "American typewriter","Microplus Retina" "sans-serif";
+    font-size: 28px;
+}
+
+ul.main,
+ul.sub,
+ol.sub,
+p.sub
+{
+    font-family: "Noto Sans", Lato, sans-serif;
+    text-align: left;
+}
+
+ul.main{
+    font-size: 24px;
+}
+
+ul.sub,
+ol.sub,
+p.sub
+{
+    font-size: 20px;
+}
+
